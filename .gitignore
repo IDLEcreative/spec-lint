@@ -1,0 +1,4 @@
+*.log
+*.tmp
+.spec-lint-words
+.DS_Store
