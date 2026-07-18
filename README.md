@@ -58,7 +58,7 @@ mechanical, so it does not depend on remembering.
 It is one bash script with no dependencies beyond bash, awk and tr.
 
 ```bash
-git clone https://github.com/<you>/spec-lint.git
+git clone https://github.com/IDLEcreative/spec-lint.git
 install spec-lint/spec-lint.sh /usr/local/bin/spec-lint   # or just run it in place
 ```
 
